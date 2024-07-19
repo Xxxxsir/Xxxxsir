@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Xxxxsir
 - 👀 I am a student at Wuhan University.
-- 🌱 I’m currently learning C/C++/python/java
-- 💞️ I’m looking to collaborate on Software development and Game development
+- 🌱 I'm planted...............in Xiaomi tech.
+- 💞️ a dead man who is murdered by Cybersecurity.
 - 📫 reach me through my icloud xxxxsir@icloud.com or my wechat G2660367272
 
 <!---
