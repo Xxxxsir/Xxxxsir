@@ -1,10 +1,64 @@
-- 👋 Hi, I’m @Xxxxsir
-- 👀 I am a student at Wuhan University.
-- 🌱 I'm planted...............in Xiaomi tech.
-- 💞️ a dead man who is murdered by Cybersecurity.
-- 📫 reach me through my icloud xxxxsir@icloud.com or my wechat G2660367272
+<div align="center">    <h2>👋 Hi there</h2>    <h4>I'm Justin, a prospective graduate student for 26 fall and currently a researcher assistant in trustworthy ML.</h4>       <a href="#">        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xxxxsir"            alt="GitHub Streak" width="50%" />    </a>          <a href="#">        </a></div>
 
-<!---
-Xxxxsir/Xxxxsir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* 🏠 My personal homepage: [Homepage](https://xxxxsir.github.io/)
+* 🎓 My Google Scholar: [Google Scholar](https://scholar.google.com/citations?user=zEtchXUAAAAJ&hl=en)
+* 🌱 I’m currently exploring topics in **AI security**, **model robustness**, and **bias & fairness** of large language models (LLMs).
+* 🛡️ Previously, I had a broad interest in **Web Security** and **Capture The Flag (CTF)** competitions.
+* 🤔 I’m open to **research collaborations** and **remote research opportunities** related to **trustworthy AI**
+<!-- * 🥺 If you like my work, maybe consider buying me a coffee 
+  <a href="https://www.buymeacoffee.com/HenryJi" target="_blank">  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" >  </a> -->
+  
+* * *
+
+**🌈 Languages and Tools:**
+
+<p><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" alt="markdown" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/><img src="https://daisyui.com/favicon.ico" alt="daisyui" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="nginx" width="40" 
+
+* * *
+
+**📫 How to reach me:**
+
+<p>  <a href="mailto:jeep.jipu@gmail.com" target="blank">    <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="邮箱" height="30" width="30" />  </a>  <a href="https://www.zhihu.com/people/er-dai-qing-zhi" target="blank">    <img align="center" src="https://static.zhihu.com/heifetz/favicon.ico" style="color: #0084FF" alt="知乎" height="30" width="30" />  </a></p>
+
+* * *
+<!--
+**📕 Latest Blog Posts**
+
+
+* [[系统学习] 银行从业相关知识学习笔记](https://morningstar369.com/blog/1979393271166472194)
+* [[零碎知识] Web服务器管理工具](https://morningstar369.com/blog/1882698783903498241)
+* [[零碎知识] 驾考科目三记忆点](https://morningstar369.com/blog/1962403632181215234)
+* [[系统学习] Git学习笔记](https://morningstar369.com/blog/1882702787752542209)
+  
+
+  
+
+**🗂️ My Projects**
+
+<div align="center">    <a href="https://github.com/HenryJi529/NextMorningstar">        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HenryJi529&repo=NextMorningstar"            alt="NextMorningstar Card" width="45%" />    </a>    <a href="https://github.com/HenryJi529/MorningstarPaper">        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HenryJi529&repo=MorningstarPaper"            alt="MorningstarPaper Card" width="45%" />    </a>    <a href="https://github.com/HenryJi529/LocalDevEnvironment">        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HenryJi529&repo=LocalDevEnvironment"            alt="LocalDevEnvironment Card" width="45%" />    </a>    <a href="https://github.com/HenryJi529/AlgorithmJourney">        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HenryJi529&repo=AlgorithmJourney"            alt="AlgorithmJourney Card" width="45%" />    </a></div>
+
+* * *
+
+**📊 Monthly coding time**
+
+
+
+    Vue.js       1 hr 57 mins    ███████████████░░░░░░░░░░   60.56 %
+    Batchfile    30 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.79 %
+    Bash         19 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.90 %
+    TypeScript   15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 %
+    YAML         8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
+
+
+* * *
+
+**🏆 Github Profile Trophy**
+
+
+
+**🙋‍♀️ My followers**
+
+
+<table>  <tr>    <td align="center">      <a href="https://github.com/cumsoft">        <img src="https://avatars2.githubusercontent.com/u/97250816" width="100px;" alt="cumsoft"/>      </a>      <br />      <a href="https://github.com/cumsoft">cumsoft</a>    </td>    <td align="center">      <a href="https://github.com/seniorvuejsdeveloper">        <img src="https://avatars2.githubusercontent.com/u/147451557" width="100px;" alt="seniorvuejsdeveloper"/>      </a>      <br />      <a href="https://github.com/seniorvuejsdeveloper">Senior Vue.js Developer</a>    </td>    <td align="center">      <a href="https://github.com/nholuongut">        <img src="https://avatars2.githubusercontent.com/u/58627821" width="100px;" alt="nholuongut"/>      </a>      <br />      <a href="https://github.com/nholuongut">Nho Luong</a>    </td>    <td align="center">      <a href="https://github.com/lucasrmagalhaes">        <img src="https://avatars2.githubusercontent.com/u/43296467" width="100px;" alt="lucasrmagalhaes"/>      </a>      <br />      <a href="https://github.com/lucasrmagalhaes">Lucas Magalhães</a>    </td>    <td align="center">      <a href="https://github.com/pinhe91">        <img src="https://avatars2.githubusercontent.com/u/79625284" width="100px;" alt="pinhe91"/>      </a>      <br />      <a href="https://github.com/pinhe91">Han Mei</a>    </td>    <td align="center">      <a href="https://github.com/lilaroky">        <img src="https://avatars2.githubusercontent.com/u/93484212" width="100px;" alt="lilaroky"/>      </a>      <br />      <a href="https://github.com/lilaroky">Lila</a>    </td>    <td align="center">      <a href="https://github.com/pgsohail">        <img src="https://avatars2.githubusercontent.com/u/68015534" width="100px;" alt="pgsohail"/>      </a>      <br />      <a href="https://github.com/pgsohail">SOHAIL SADIQ</a>    </td>  </tr>  <tr>    <td align="center">      <a href="https://github.com/CallbackCat777">        <img src="https://avatars2.githubusercontent.com/u/89124880" width="100px;" alt="CallbackCat777"/>      </a>      <br />      <a href="https://github.com/CallbackCat777">CallBack Cat</a>    </td>    <td align="center">      <a href="https://github.com/dirkarnez">        <img src="https://avatars2.githubusercontent.com/u/26408605" width="100px;" alt="dirkarnez"/>      </a>      <br />      <a href="https://github.com/dirkarnez">Dirk Arnez</a>    </td>    <td align="center">      <a href="https://github.com/rohit-ghadge">        <img src="https://avatars2.githubusercontent.com/u/57706022" width="100px;" alt="rohit-ghadge"/>      </a>      <br />      <a href="https://github.com/rohit-ghadge">Rohit Ghadge</a>    </td>    <td align="center">      <a href="https://github.com/LLLLM01">        <img src="https://avatars2.githubusercontent.com/u/109198970" width="100px;" alt="LLLLM01"/>      </a>      <br />      <a href="https://github.com/LLLLM01">LLLLM</a>    </td>    <td align="center">      <a href="https://github.com/PearlyWave">        <img src="https://avatars2.githubusercontent.com/u/50262126" width="100px;" alt="PearlyWave"/>      </a>      <br />      <a href="https://github.com/PearlyWave">Eric Ji</a>    </td>    <td align="center">      <a href="https://github.com/Miercy">        <img src="https://avatars2.githubusercontent.com/u/107945380" width="100px;" alt="Miercy"/>      </a>      <br />      <a href="https://github.com/Miercy">Miercy</a>    </td>    <td align="center">      <a href="https://github.com/GreyKL">        <img src="https://avatars2.githubusercontent.com/u/38514823" width="100px;" alt="GreyKL"/>      </a>      <br />      <a href="https://github.com/GreyKL">GreyKL</a>    </td>  </tr></table>
+**🌟 [Projects starred by me](https://github.com/maguowei/starred)** [My Awesome Stars](AWESOME-STARS.md)  
+-->
