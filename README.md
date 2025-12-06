@@ -1,8 +1,22 @@
-<div align="center">    <h2>👋 Hi there</h2>    <h4>I'm Justin, a prospective graduate student for 26 fall and currently a researcher assistant in trustworthy ML.</h4>       <a href="#">        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xxxxsir"            alt="GitHub Streak" width="50%" />    </a>          <a href="#">        </a></div>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=👋Hi%20there&fontSize=80&animation=fadeIn&fontAlign=50" width="100%" />
+<h3>
+  I'm Justin, a prospective graduate student for 26 fall <br/> 
+  and currently a researcher assistant in trustworthy ML.
+</h3>
+</div>
 
-* 🏠 My personal homepage: [Homepage](https://xxxxsir.github.io/)
-* 🎓 My Google Scholar: [Google Scholar](https://scholar.google.com/citations?user=zEtchXUAAAAJ&hl=en)
-* 🌱 I’m currently exploring topics in **AI security**, **model robustness**, and **bias & fairness** of large language models (LLMs).
+<div align="center">
+
+[![Homepage](https://img.shields.io/badge/🏠_Personal_Homepage-Visit-blueviolet?style=for-the-badge)](https://xxxxsir.github.io/)
+[![Google Scholar](https://img.shields.io/badge/🎓_Google_Scholar-View_Profile-blueviolet?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=zEtchXUAAAAJ&hl=en)
+
+</div>
+
+<div align="center">   <a href="#">       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xxxxsir&theme=tokyonight" />     </a>          <a href="#">        </a></div>
+
+
+* 🌱 I’m currently exploring topics in **AI security**, **Agent safety**, and **bias & fairness** of large language models (LLMs).
 * 🛡️ Previously, I had a broad interest in **Web Security** and **Capture The Flag (CTF)** competitions.
 * 🤔 I’m open to **research collaborations** and **remote research opportunities** related to **trustworthy AI**
 <!-- * 🥺 If you like my work, maybe consider buying me a coffee 
@@ -10,24 +24,35 @@
   
 * * *
 
-**🌈 Languages and Tools:**
+### 🌈 Tech Stack:
 
 <p><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" alt="markdown" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/><img src="https://daisyui.com/favicon.ico" alt="daisyui" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="nginx" width="40" 
 
-<!--
+---
 * * *
-🏆 **my github stats:**
-### 📊 GitHub Stats
+### 🏆 My Github Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xxxxsir&show_icons=true&theme=tokyonight&count_private=true)
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xxxxsir&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Xxxxsir&show_icons=true&theme=tokyonight" height="165" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Xxxxsir&layout=compact&theme=tokyonight" height="165" alt="Top Langs" />
+
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Xxxxsir&theme=tokyonight&no-frame=true&column=7" />
+</div>
 
 ---
-### 📈 Visitor Count
+### 📈 Badge:
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Xxxxsir&color=blueviolet)
--->
+![Followers](https://img.shields.io/github/followers/Xxxxsir?style=flat&logo=github&label=Followers&color=blueviolet)
+![Stars](https://img.shields.io/github/stars/Xxxxsir?style=flat&logo=github&label=Stars&color=blueviolet)
+![Last Commit](https://img.shields.io/github/last-commit/Xxxxsir/Xxxxsir?style=flat&color=blueviolet&label=Last%20Commit)
+![Repo Size](https://img.shields.io/github/repo-size/Xxxxsir/Xxxxsir?style=flat&color=blueviolet)
+
 
 
 <!--
