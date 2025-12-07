@@ -41,7 +41,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Xxxxsir&theme=tokyonight&no-frame=true&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Xxxxsir&theme=tokyonight&no-frame=true&column=8" />
 </div>
 
 ---
