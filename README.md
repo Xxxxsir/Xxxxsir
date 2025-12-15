@@ -9,19 +9,19 @@
 <div align="center">
 
 [![Homepage](https://img.shields.io/badge/🏠_Personal_Homepage-Visit-blueviolet?style=for-the-badge)](https://xxxxsir.github.io/)
-[![Google Scholar](https://img.shields.io/badge/🎓_Google_Scholar-View_Profile-blueviolet?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=zEtchXUAAAAJ&hl=en)
+[![Google Scholar](https://img.shields.io/badge/_Google_Scholar-View_Profile-blueviolet?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=zEtchXUAAAAJ&hl=en)
 
 </div>
 
-<div align="center">   <a href="#">       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xxxxsir&theme=tokyonight" />     </a>          <a href="#">        </a></div>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xxxxsir&theme=radical" width="850" alt="Profile Details" />
+</div>
 
 
 * 🌱 I’m currently exploring topics in **AI security**, **Agent safety**, and **bias & fairness** of large language models (LLMs).
 * 🛡️ Previously, I had a broad interest in **Web Security** and **Capture The Flag (CTF)** competitions.
 * 🤔 I’m open to **research collaborations** and **remote research opportunities** related to **trustworthy AI**
-<!-- * 🥺 If you like my work, maybe consider buying me a coffee 
-  <a href="https://www.buymeacoffee.com/HenryJi" target="_blank">  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" >  </a> -->
-  
+
 * * *
 
 ### 🌈 Tech Stack:
@@ -40,6 +40,9 @@
 
 </div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Xxxxsir&theme=dark&v=1" width="770" alt="Activity Graph" />
+</div>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Xxxxsir&theme=tokyonight&no-frame=true&column=8" />
 </div>
@@ -69,36 +72,3 @@
 * [[零碎知识] Web服务器管理工具](https://morningstar369.com/blog/1882698783903498241)
 * [[零碎知识] 驾考科目三记忆点](https://morningstar369.com/blog/1962403632181215234)
 * [[系统学习] Git学习笔记](https://morningstar369.com/blog/1882702787752542209)
-  
-
-  
-
-**🗂️ My Projects**
-
-<div align="center">    <a href="https://github.com/HenryJi529/NextMorningstar">        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HenryJi529&repo=NextMorningstar"            alt="NextMorningstar Card" width="45%" />    </a>    <a href="https://github.com/HenryJi529/MorningstarPaper">        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HenryJi529&repo=MorningstarPaper"            alt="MorningstarPaper Card" width="45%" />    </a>    <a href="https://github.com/HenryJi529/LocalDevEnvironment">        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HenryJi529&repo=LocalDevEnvironment"            alt="LocalDevEnvironment Card" width="45%" />    </a>    <a href="https://github.com/HenryJi529/AlgorithmJourney">        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HenryJi529&repo=AlgorithmJourney"            alt="AlgorithmJourney Card" width="45%" />    </a></div>
-
-* * *
-
-**📊 Monthly coding time**
-
-
-
-    Vue.js       1 hr 57 mins    ███████████████░░░░░░░░░░   60.56 %
-    Batchfile    30 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.79 %
-    Bash         19 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.90 %
-    TypeScript   15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 %
-    YAML         8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
-
-
-* * *
-
-**🏆 Github Profile Trophy**
-
-
-
-**🙋‍♀️ My followers**
-
-
-<table>  <tr>    <td align="center">      <a href="https://github.com/cumsoft">        <img src="https://avatars2.githubusercontent.com/u/97250816" width="100px;" alt="cumsoft"/>      </a>      <br />      <a href="https://github.com/cumsoft">cumsoft</a>    </td>    <td align="center">      <a href="https://github.com/seniorvuejsdeveloper">        <img src="https://avatars2.githubusercontent.com/u/147451557" width="100px;" alt="seniorvuejsdeveloper"/>      </a>      <br />      <a href="https://github.com/seniorvuejsdeveloper">Senior Vue.js Developer</a>    </td>    <td align="center">      <a href="https://github.com/nholuongut">        <img src="https://avatars2.githubusercontent.com/u/58627821" width="100px;" alt="nholuongut"/>      </a>      <br />      <a href="https://github.com/nholuongut">Nho Luong</a>    </td>    <td align="center">      <a href="https://github.com/lucasrmagalhaes">        <img src="https://avatars2.githubusercontent.com/u/43296467" width="100px;" alt="lucasrmagalhaes"/>      </a>      <br />      <a href="https://github.com/lucasrmagalhaes">Lucas Magalhães</a>    </td>    <td align="center">      <a href="https://github.com/pinhe91">        <img src="https://avatars2.githubusercontent.com/u/79625284" width="100px;" alt="pinhe91"/>      </a>      <br />      <a href="https://github.com/pinhe91">Han Mei</a>    </td>    <td align="center">      <a href="https://github.com/lilaroky">        <img src="https://avatars2.githubusercontent.com/u/93484212" width="100px;" alt="lilaroky"/>      </a>      <br />      <a href="https://github.com/lilaroky">Lila</a>    </td>    <td align="center">      <a href="https://github.com/pgsohail">        <img src="https://avatars2.githubusercontent.com/u/68015534" width="100px;" alt="pgsohail"/>      </a>      <br />      <a href="https://github.com/pgsohail">SOHAIL SADIQ</a>    </td>  </tr>  <tr>    <td align="center">      <a href="https://github.com/CallbackCat777">        <img src="https://avatars2.githubusercontent.com/u/89124880" width="100px;" alt="CallbackCat777"/>      </a>      <br />      <a href="https://github.com/CallbackCat777">CallBack Cat</a>    </td>    <td align="center">      <a href="https://github.com/dirkarnez">        <img src="https://avatars2.githubusercontent.com/u/26408605" width="100px;" alt="dirkarnez"/>      </a>      <br />      <a href="https://github.com/dirkarnez">Dirk Arnez</a>    </td>    <td align="center">      <a href="https://github.com/rohit-ghadge">        <img src="https://avatars2.githubusercontent.com/u/57706022" width="100px;" alt="rohit-ghadge"/>      </a>      <br />      <a href="https://github.com/rohit-ghadge">Rohit Ghadge</a>    </td>    <td align="center">      <a href="https://github.com/LLLLM01">        <img src="https://avatars2.githubusercontent.com/u/109198970" width="100px;" alt="LLLLM01"/>      </a>      <br />      <a href="https://github.com/LLLLM01">LLLLM</a>    </td>    <td align="center">      <a href="https://github.com/PearlyWave">        <img src="https://avatars2.githubusercontent.com/u/50262126" width="100px;" alt="PearlyWave"/>      </a>      <br />      <a href="https://github.com/PearlyWave">Eric Ji</a>    </td>    <td align="center">      <a href="https://github.com/Miercy">        <img src="https://avatars2.githubusercontent.com/u/107945380" width="100px;" alt="Miercy"/>      </a>      <br />      <a href="https://github.com/Miercy">Miercy</a>    </td>    <td align="center">      <a href="https://github.com/GreyKL">        <img src="https://avatars2.githubusercontent.com/u/38514823" width="100px;" alt="GreyKL"/>      </a>      <br />      <a href="https://github.com/GreyKL">GreyKL</a>    </td>  </tr></table>
-**🌟 [Projects starred by me](https://github.com/maguowei/starred)** [My Awesome Stars](AWESOME-STARS.md)  
--->
