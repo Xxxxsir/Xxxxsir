@@ -1,5 +1,13 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=👋Hi%20there&fontSize=80&animation=fadeIn&fontAlign=50" width="100%" />
+
+<div align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Xxxxsir&theme=tokyonight&hide_border=false"
+    alt="GitHub Streak Stats"
+  />
+</div>
+
 <h3>
   I'm Justin, a prospective graduate student for 26 fall <br/> 
   and currently a researcher assistant in trustworthy ML.
@@ -38,14 +46,14 @@
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Xxxxsir&layout=compact&theme=tokyonight" height="165" alt="Top Langs" />
 
+  <img
+    src="https://github-trophies.vercel.app/?username=Xxxxsir&theme=radical&no-frame=false&no-bg=false&margin-w=4"
+    alt="GitHub Trophies"
+    width="840"
+  />
+  
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Xxxxsir&theme=dark&v=1" width="770" alt="Activity Graph" />
-</div>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Xxxxsir&theme=tokyonight&no-frame=true&column=8" />
-</div>
 
 ---
 ### 📈 Badge:
