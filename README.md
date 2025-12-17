@@ -8,10 +8,10 @@
   />
 </div>
 
-<h3>
+<h2>
   I'm Justin, a prospective graduate student for 26 fall <br/> 
   and currently a researcher assistant in trustworthy ML.
-</h3>
+</h2>
 </div>
 
 <div align="center">
@@ -26,9 +26,12 @@
 </div>
 
 
-* 🌱 I’m currently exploring topics in **AI security**, **Agent safety**, and **bias & fairness** of large language models (LLMs).
-* 🛡️ Previously, I had a broad interest in **Web Security** and **Capture The Flag (CTF)** competitions.
-* 🤔 I’m open to **research collaborations** and **remote research opportunities** related to **trustworthy AI**
+### 🌱 I’m currently exploring topics in **AI security**, **Agent safety**, and **bias & fairness** of LLMs.
+
+### 🛡️ Previously, I had a broad interest in **Web Security** and **Capture The Flag (CTF)** competitions.
+
+### 🤔 I’m open to **research collaborations** and **remote research opportunities** related to **trustworthy AI**。
+
 
 * * *
 
