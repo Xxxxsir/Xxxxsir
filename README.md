@@ -30,7 +30,7 @@
 
 ### 🛡️ Previously, I had a broad interest in **Web Security** and **Capture The Flag (CTF)** competitions.
 
-### 🤔 I’m open to **research collaborations** and **remote research opportunities** related to **trustworthy AI**。
+### 🤔 I’m open to **research collaborations** and **remote research opportunities** related to **trustworthy AI**.
 
 
 * * *
