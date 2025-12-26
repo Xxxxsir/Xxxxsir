@@ -1,12 +1,12 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=👋Hi%20there&fontSize=80&animation=fadeIn&fontAlign=50" width="100%" />
 
-<div align="center">
+<!-- <div align="center">
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=Xxxxsir&theme=tokyonight&hide_border=false"
     alt="GitHub Streak Stats"
   />
-</div>
+</div> -->
 
 <h2>
   I'm Justin, a prospective graduate student for 26 fall <br/> 
